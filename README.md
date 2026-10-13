@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,30&height=220&section=header&text=Muhamad%20Zaldi%20Aprialdi&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Software%20Engineer%20|%20Backend%20%26%20Full-Stack%20Enthusiast%20|%20Politeknik%20Astra&descAlignY=58&descSize=16" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,30&height=220&section=header&text=Muhamad%20Zaldi%20Aprialdi&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Software%20Engineer%20|%20Backend%20and%20Full-Stack%20Enthusiast%20|%20Politeknik%20Astra&descAlignY=58&descSize=16" width="100%" />
 
 <p align="center">
   <a href="https://linkedin.com/in/muhamad-zaldi-aprialdi" target="_blank">
@@ -24,7 +24,8 @@
 <p align="justify">
   I actively explore <b>Artificial Intelligence integration</b>, modern enterprise frameworks, and process automation to solve real-world problems. Driven by continuous learning and team collaboration, I am currently preparing for <b>Software Engineer and Full-Stack internship opportunities</b> where I can contribute to impactful digital products while growing alongside industry professionals.
 </p>
----
+
+<hr/>
 
 ### 💻 Tech Stack & Tools
 
