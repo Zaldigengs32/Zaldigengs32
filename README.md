@@ -1,6 +1,6 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,30&height=220&section=header&text=Muhamad%20Zaldi%20Aprialdi&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Software%20Engineer%20|%20Politeknik%20Astra&descAlignY=58&descSize=18" width="100%" />
 
-# Hi there, I'm Muhamad Zaldi Aprialdi 👋
 ### Aspiring Software Engineer | Backend & Full-Stack Enthusiast
 
 <p align="center">
